@@ -3,10 +3,8 @@
   <component name="ChangeListManager">
     <list default="true" id="47badf2b-16af-444a-8f15-1d168706940c" name="Default" comment="10718번 문제 추가">
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/11718.kt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/7287.kt" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/BaekJoon/META-INF/BaekJoon.kotlin_module" afterPath="$PROJECT_DIR$/out/production/BaekJoon/META-INF/BaekJoon.kotlin_module" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/BaekJoon/_10718Kt.class" afterPath="$PROJECT_DIR$/out/production/BaekJoon/_10718Kt.class" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/7287.kt" afterPath="$PROJECT_DIR$/src/7287.kt" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -48,7 +46,7 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="11718.kt" pinned="false" current-in-tab="false">
+      <file leaf-file-name="11718.kt" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/11718.kt">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="176">
@@ -58,11 +56,11 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="7287.kt" pinned="false" current-in-tab="true">
+      <file leaf-file-name="7287.kt" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/7287.kt">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="44">
-              <caret line="2" column="25" lean-forward="false" selection-start-line="2" selection-start-column="25" selection-end-line="2" selection-end-column="25" />
+            <state relative-caret-position="110">
+              <caret line="5" column="1" lean-forward="true" selection-start-line="0" selection-start-column="0" selection-end-line="5" selection-end-column="1" />
               <folding />
             </state>
           </provider>
@@ -392,7 +390,7 @@
       <updated>1507744168908</updated>
       <workItem from="1507744172634" duration="1052000" />
       <workItem from="1507745391099" duration="3098000" />
-      <workItem from="1507794269448" duration="3802000" />
+      <workItem from="1507794269448" duration="4070000" />
     </task>
     <task id="LOCAL-00001" summary="ReadMe 수정">
       <created>1507747079136</created>
@@ -422,11 +420,18 @@
       <option name="project" value="LOCAL" />
       <updated>1507795359456</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="7287번 문제 추가">
+      <created>1507808764329</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1507808764329</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="7952000" />
+    <option name="totallyTimeSpent" value="8220000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="17" y="98" width="1612" height="876" extended-state="0" />
@@ -467,7 +472,8 @@
     <MESSAGE value="ReadMe 수정" />
     <MESSAGE value="10172번 문제 추가" />
     <MESSAGE value="10718번 문제 추가" />
-    <option name="LAST_COMMIT_MESSAGE" value="10718번 문제 추가" />
+    <MESSAGE value="7287번 문제 추가" />
+    <option name="LAST_COMMIT_MESSAGE" value="7287번 문제 추가" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
@@ -584,18 +590,18 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/11718.kt">
+    <entry file="file://$PROJECT_DIR$/src/7287.kt">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="176">
-          <caret line="8" column="1" lean-forward="true" selection-start-line="8" selection-start-column="1" selection-end-line="8" selection-end-column="1" />
+        <state relative-caret-position="110">
+          <caret line="5" column="1" lean-forward="true" selection-start-line="0" selection-start-column="0" selection-end-line="5" selection-end-column="1" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/7287.kt">
+    <entry file="file://$PROJECT_DIR$/src/11718.kt">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="44">
-          <caret line="2" column="25" lean-forward="false" selection-start-line="2" selection-start-column="25" selection-end-line="2" selection-end-column="25" />
+        <state relative-caret-position="176">
+          <caret line="8" column="1" lean-forward="true" selection-start-line="8" selection-start-column="1" selection-end-line="8" selection-end-column="1" />
           <folding />
         </state>
       </provider>
