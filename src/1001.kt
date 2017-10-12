@@ -7,5 +7,5 @@ fun main(args : Array<String>) {
     val a = scan.nextInt()
     val b = scan.nextInt()
 
-    System.out.println(a-b)
+    println(a-b)
 }
